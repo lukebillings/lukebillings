@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Luke
-- 👀 I’m interested in startups
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to help startups with their web apps
+- 🌱 I’m currently learning Java + React
 - 📫 You can reach me on LinkedIn https://www.linkedin.com/in/lukebillings/
 
 <!---

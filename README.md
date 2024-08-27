@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luke
-- 🌱 I’m currently learning Java + React
+- 🌱 I’m currently buiding with Next.JS
 - 📫 You can reach me on LinkedIn https://www.linkedin.com/in/lukebillings/
 
 <!---
